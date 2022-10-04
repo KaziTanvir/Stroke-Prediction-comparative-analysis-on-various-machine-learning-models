@@ -37,3 +37,19 @@ features. A tree can be seen as a piecewise constant approximation.</p> </li>
     <li>Multi-Layer Perceptron : <p>MLPClassifier stands for Multi-layer Perceptron classifier which in the name itself connects to a Neural Network. Unlike other classification algorithms such as Support Vectors or Naive Bayes Classifier, MLPClassifier relies on an underlying Neural Network to perform the task of classification.</p> </li>
     
 </ul>
+
+
+## Results 
+
+<ul>
+    <li><b>Gaussian Naive Bayes : <i>97.57 %</i> </b></li>
+    <li><b>Decision Trees : <i>96.00 %</i> </b> </li>
+    <li><b>Random Forest Classifier : <i>98.11 %</i> </b> </li>
+    <li><b>Multi-Layer Preceptron : <i>96.68 %</i> </b> </li>
+    
+</ul>
+
+
+## Conclusion 
+
+Random Forest Classifier works best on the said data compared to the other models. 
